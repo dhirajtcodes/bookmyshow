@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;EACtB,UAAU,EAAE,aAAa;CAC5B;;AAED,AAAA,IAAI,CAAA;EACA,eAAe,EAAE,MAAM;CAC1B",
+    "sources": [
+        "temp.scss"
+    ],
+    "names": [],
+    "file": "temp.css"
+}
